@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Skyler Halfhill
 
-# Your Github username
+# halfhsky4672
